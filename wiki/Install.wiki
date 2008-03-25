@@ -21,6 +21,7 @@
    Turn on online-support so they can contact you. 
    Or alternatively, you can open a chat window to them.
 
+----
 I'm not fluent in english, but you still can contact me if you have technical problems:
 http://www.jpr.com.ar/phplively/
 reynal@gmail.com
