@@ -1,7 +1,6 @@
 = Installation instructions =
 
  # Unpack 'phplively.zip'
-
  # Edit '/server/config.php' options
 
  # Drop '/server' folder on your master site
