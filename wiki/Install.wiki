@@ -2,17 +2,19 @@
 
 = Installation instructions =
 
+Installation instructions:
+
 1) Unpack 'phplively.zip'
 
 2) Edit '/server/config.php'
 	2.1) Change $config[[lang]] to match your preferred language
-		 Ex: $config[lang] = 'en';
+		 Ex: $config[[lang]] = 'en';
 
-	2.2) Change $config[ruta] and $config[url] to match your master site configuration (path and url).
+	2.2) Change $config[[ruta]] and $config[[url]] to match your master site configuration (path and url).
 		 You can leave it as is if you don't change this folder structure (/phplively/server).
 
-	2.3) Add your allowed domains (client sites) on $config[dominios]
-		 Ex: $config[dominios] = array('domain1.com','domain2.com','domain3.com');
+	2.3) Add your allowed domains (client sites) on $config[[dominios]]
+		 Ex: $config[[dominios]] = array('domain1.com','domain2.com','domain3.com');
 
 3) Drop '/server' folder on your master site
 	3.1) CHMOD 777 '/server/data'
