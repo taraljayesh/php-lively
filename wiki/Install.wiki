@@ -1,22 +1,22 @@
 = Installation instructions =
 
-# Unpack 'phplively.zip'
+ # Unpack 'phplively.zip'
 
-# Edit '/server/config.php' options
+ # Edit '/server/config.php' options
 
-# Drop '/server' folder on your master site
+ # Drop '/server' folder on your master site
 	* CHMOD 777 '/server/data'
 	* CHMOD 777 '/server/data/chat'
 	* CHMOD 777 '/server/data/visitantes'
 
-# For each of your 'client' sites do the following:
+ # For each of your 'client' sites do the following:
 	* Edit '/site1/html_code.html' options
 	* Add 'site1/html_code.html' code to your pages (inside body tag).
 	* Upload '/site1' folder
 
-# Done!
+ # Done!
 
-# Open a new browser window and type: http://www.master-site.com/phplively/admin/
+ # Open a new browser window and type: http://www.master-site.com/phplively/admin/
    Now you should see user's online and their information (if any).
    Turn on online-support so they can contact you. 
    Or alternatively, you can open a chat window to them.
