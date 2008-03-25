@@ -5,8 +5,8 @@
 1) Unpack 'phplively.zip'
 
 2) Edit '/server/config.php'
-	2.1) Change \$config\[lang\] to match your preferred language
-		 Ex: \$config[lang] = 'en';
+	2.1) Change $config\[[lang\] to match your preferred language
+		 Ex: $config[lang] = 'en';
 
 	2.2) Change $config[ruta] and $config[url] to match your master site configuration (path and url).
 		 You can leave it as is if you don't change this folder structure (/phplively/server).
