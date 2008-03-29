@@ -11,7 +11,7 @@
    * Add 'site1/html_code.html' code to your pages (inside body tag).
    * Upload '/site1' folder
  * Done!
- * Open a new browser window and type: http://www.master-site.com/phplively/admin/
+ * Open a new browser window and type: http://www.your-master-site.com/phplively/admin/
    Now you should see user's online and their information (if any).
    Turn on online-support so they can contact you. 
    Or alternatively, you can open a chat window to them.
